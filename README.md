@@ -1,1 +1,2 @@
-# regression
+# Regression
+Regression analysis is a statistical technique used to understand the relationship between two or more variables. It helps in predicting the value of one variable based on the values of others. In simple linear regression, there's one predictor variable, while in multiple linear regression, there are multiple predictors. The technique calculates a regression equation that best fits the data points, allowing for the estimation of future outcomes or understanding the strength and direction of relationships between variables. It's widely applied in various fields such as economics, finance, sociology, and science to analyze trends, make forecasts, and inform decision-making processes.
